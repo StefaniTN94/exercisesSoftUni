@@ -1,3 +1,3 @@
 # exercisesSoftUni
 Repo for exercises.
-Making some changes.
+Making some changes to generate conflict!
