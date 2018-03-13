@@ -1,3 +1,3 @@
 # exercisesSoftUni
 Repo for exercises.
-We resolved the conflict!
+This will cause a conflict!
