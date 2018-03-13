@@ -1,3 +1,3 @@
 # exercisesSoftUni
-Repo for exercises. 
-Creating conflict!
+Repo for exercises.
+Conflict being resolved!
