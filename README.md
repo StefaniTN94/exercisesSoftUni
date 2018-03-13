@@ -1,3 +1,3 @@
 # exercisesSoftUni
-Creating conflict with bash
-
+Repo for exercises. 
+Conflict is done!
