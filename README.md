@@ -1,2 +1,3 @@
 # exercisesSoftUni
-This will make a conflict!
+Repo for exercises.
+We resolved the conflict!
