@@ -1,3 +1,3 @@
 # exercisesSoftUni
 Repo for exercises. 
-Conflict is done!
+Creating conflict!
